@@ -92,7 +92,6 @@ exibe_nomes(nomes)
 + Julhinha
 ```
 
-
 ### Exemplo de Saída
 
 ```python
